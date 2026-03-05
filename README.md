@@ -4,9 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+MERN+Developer;Prefinal+Year+CSE+(AI+%26+ML)+Student;150%2B+DSA+Problems;Open+to+SDE+Internships&center=true&width=500&height=50">
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Tushar859&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+
 
 ---
 
@@ -80,4 +78,4 @@
 
 ---
 
-⭐️ From Tushar Mishra
+
