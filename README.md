@@ -71,17 +71,7 @@
 
 ---
 
-## 📊 GitHub Stats
 
-![Tushar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tushar859&show_icons=true&theme=radical)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Tushar859&theme=radical)
-
----
 
 ## 📫 Connect With Me
 
